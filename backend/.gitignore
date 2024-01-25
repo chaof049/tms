@@ -1,0 +1,10 @@
+# Firebase files and directories
+firebase.json
+.firebase/
+.firestore/
+/functions/
+
+# Node.js modules
+node_modules
+
+.env
